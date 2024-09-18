@@ -1,0 +1,4 @@
+total 4
+-rw-rw-r-- 1 test test   0 sept. 18 10:30 error.log
+-rw-rw-r-- 1 test test   0 sept. 18 10:30 output.log
+-rwxrwxr-x 1 test test 297 sept. 18 10:21 redirect_output.sh
